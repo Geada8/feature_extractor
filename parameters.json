@@ -1,0 +1,11 @@
+{
+    "version": 1,
+    "type": "dsp",
+    "info": {
+        "name": "Rolling Statistical Features",
+        "description": "RMS, Peak, Crest Factor, Kurtosis, Skewness over rolling sub-windows. No frequency domain processing.",
+        "showInLeftSidebar": true,
+        "operatesOn": "time-series"
+    },
+    "parameters": []
+}
